@@ -122,4 +122,4 @@ for k in range(3, ws3.max_column+1):
 # print(0.0844>0.0165)
 
 
-wb.save(str(pathlib.Path.cwd())+"/4G.xlsx")
+wb.save(str(pathlib.Path.cwd())+"/result/4G.xlsx")
